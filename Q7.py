@@ -27,7 +27,7 @@ while n!=5:
     if n==1:
         bc.deposit()
     if n==2:
-        bc.withdra()
+        bc.withdraw()
     if n==3:
         bc.display()
 
